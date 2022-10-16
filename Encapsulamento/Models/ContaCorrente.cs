@@ -15,11 +15,13 @@ namespace Encapsulamento.Models
         }
         public int NumeroConta { get; set; }      
         private decimal saldo;
-
         public void Sacar(decimal valor){
-if(saldo>=valor){
+
+if(saldo >= valor){
+    
             saldo-=valor;
             Console.WriteLine("saque realizado");
+
 }else{
 
 Console.WriteLine("valor desejado e maior que valor disponivel");
