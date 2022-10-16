@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PROPRIEDADES_METODOS_CONSTRUTORES/1.0.0": {
+        "runtime": {
+          "PROPRIEDADES_METODOS_CONSTRUTORES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROPRIEDADES_METODOS_CONSTRUTORES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

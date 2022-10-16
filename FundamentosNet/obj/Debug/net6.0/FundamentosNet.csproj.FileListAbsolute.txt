@@ -1,0 +1,15 @@
+D:\DIO\FundamentosNet\bin\Debug\net6.0\FundamentosNet.exe
+D:\DIO\FundamentosNet\bin\Debug\net6.0\FundamentosNet.deps.json
+D:\DIO\FundamentosNet\bin\Debug\net6.0\FundamentosNet.runtimeconfig.json
+D:\DIO\FundamentosNet\bin\Debug\net6.0\FundamentosNet.dll
+D:\DIO\FundamentosNet\bin\Debug\net6.0\FundamentosNet.pdb
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.csproj.AssemblyReference.cache
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.AssemblyInfoInputs.cache
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.AssemblyInfo.cs
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.csproj.CoreCompileInputs.cache
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.dll
+D:\DIO\FundamentosNet\obj\Debug\net6.0\refint\FundamentosNet.dll
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.pdb
+D:\DIO\FundamentosNet\obj\Debug\net6.0\FundamentosNet.genruntimeconfig.cache
+D:\DIO\FundamentosNet\obj\Debug\net6.0\ref\FundamentosNet.dll
