@@ -9,8 +9,8 @@ namespace Encapsulamento.Models
     {
         public ContaCorrente(int numeroConta, decimal saldoInicial){
 
-            NumeroConta=numeroConta;
-            saldo=saldoInicial;
+            NumeroConta = numeroConta;
+            saldo = saldoInicial;
 
         }
         public int NumeroConta { get; set; }      
