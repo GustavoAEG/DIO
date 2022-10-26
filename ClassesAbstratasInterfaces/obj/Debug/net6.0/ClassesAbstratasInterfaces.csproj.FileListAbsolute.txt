@@ -1,0 +1,15 @@
+D:\DIO\ClassesAbstratasInterfaces\bin\Debug\net6.0\ClassesAbstratasInterfaces.exe
+D:\DIO\ClassesAbstratasInterfaces\bin\Debug\net6.0\ClassesAbstratasInterfaces.deps.json
+D:\DIO\ClassesAbstratasInterfaces\bin\Debug\net6.0\ClassesAbstratasInterfaces.runtimeconfig.json
+D:\DIO\ClassesAbstratasInterfaces\bin\Debug\net6.0\ClassesAbstratasInterfaces.dll
+D:\DIO\ClassesAbstratasInterfaces\bin\Debug\net6.0\ClassesAbstratasInterfaces.pdb
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.csproj.AssemblyReference.cache
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.AssemblyInfoInputs.cache
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.AssemblyInfo.cs
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.csproj.CoreCompileInputs.cache
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.dll
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\refint\ClassesAbstratasInterfaces.dll
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.pdb
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ClassesAbstratasInterfaces.genruntimeconfig.cache
+D:\DIO\ClassesAbstratasInterfaces\obj\Debug\net6.0\ref\ClassesAbstratasInterfaces.dll
