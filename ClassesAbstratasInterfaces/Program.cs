@@ -1,4 +1,5 @@
 ﻿using ClassesAbstratasInterfaces.Models;
+using ClassesAbstratasInterfaces.Interfaces;
 
 Corrente c = new Corrente();
 
@@ -15,5 +16,7 @@ Professor p = new Professor("Roberto");
 p.Salario=5.000;
 p.Apresentar();
 
+ICalculadora calc = new Calculadora();
 
+Console.WriteLine(calc.Dividir(5,5));
 

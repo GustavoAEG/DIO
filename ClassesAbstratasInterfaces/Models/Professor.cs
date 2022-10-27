@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ClassesAbstratasInterfaces.Models
 {
-    public class Professor:Pessoa
+    public sealed class Professor:Pessoa
     {
         public Professor(string nome): base(nome)
         {
