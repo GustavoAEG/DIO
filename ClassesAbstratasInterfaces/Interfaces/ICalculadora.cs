@@ -7,7 +7,7 @@ namespace ClassesAbstratasInterfaces.Interfaces
 {
     public interface ICalculadora
     {
-        int Somar(int num1, int num2);
+        int Somar(int num1, int num2); //nao ha implementação, ----> { .........}
         
         int Subtrair(int num1, int num2);
         
