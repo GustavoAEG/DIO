@@ -6,7 +6,7 @@ Corrente c = new Corrente();
 c.Creditar(500);
 c.ExibirSaldo();
 
-Aluno a = new Aluno("Paulo");
+Aluno a = new Aluno("Paulo P.");
 
 a.Nota=10.0;
 a.Apresentar();
